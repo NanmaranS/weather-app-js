@@ -1,31 +1,31 @@
 # 🌤️ Weather App
 
-A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data using the **OpenWeatherMap API** based on user input (city name).
+A responsive Weather App built with **HTML**, **CSS**, and **JavaScript** that fetches real-time weather data using the **OpenWeatherMap API** based on user input.
 
 ---
 
 ## 🔍 Features
 
-- 🌍 City-based weather search
-- ☁️ Real-time weather data (temperature, humidity, condition)
-- 📱 Responsive design for all screen sizes
-- 🚫 Error handling for invalid or empty input
+- 🔎 Search weather by city name
+- ☁️ Displays temperature, humidity, and weather conditions
+- 📱 Mobile-friendly and responsive design
+- 🚫 Handles empty or invalid inputs gracefully
 
 ---
 
-## 💻 Technologies Used
+## 🛠️ Technologies Used
 
 - HTML
 - CSS
 - JavaScript (Vanilla)
-- RESTful API (OpenWeatherMap)
+- OpenWeatherMap API
 
 ---
 
 ## 🚀 Live Demo
 
-👉 [View Project on GitHub Pages](https://NanmaranS.github.io/weather-app-js)  
-*(Replace with your real GitHub Pages link if different)*
+👉 [View Live on GitHub Pages](https://NanmaranS.github.io/weather-app-js)  
+*(Make sure you've deployed the repo using GitHub Pages for this to work)*
 
 ---
 
@@ -34,3 +34,8 @@ A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScr
 1. Clone this repository:
    ```bash
    git clone https://github.com/NanmaranS/weather-app-js.git
+
+📬 API Reference
+This app uses the OpenWeatherMap API.
+You may need your own free API key to get it working.
+
