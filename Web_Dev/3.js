@@ -1,7 +1,7 @@
 const weatherForm = document.querySelector(".weatherform");
 const cityInput = document.querySelector(".cityinput");
 const card = document.querySelector(".card");
-const apiKey = "b5efcf6bf5db91923c47d4241caa0b88";
+const apiKey = "enter your key";
 
 // Fix: "sumbit" → "submit", correct function and variable names
 weatherForm.addEventListener("submit", async (event) => {
